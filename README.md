@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# 支付宝每天领红包用红包流程
+## 每天扫一次下面红包二维码领红包，如果不是实体店红包可直接充电费。
+## 如果是手机上可以长按保存到相册，然后再支付宝——扫一扫——相册——导入二维码
+![领红包](https://raw.githubusercontent.com/xigyou/xigyou.github.io/master/red.jpeg)
 
-You can use the [editor on GitHub](https://github.com/xigyou/yinghui/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 如果是实体店红包，可扫描下方二维码支付比领到的红包多1块钱左右的钱用掉红包。
+## 付好截图给我微信xigyou，我把付款金额全额微信转回。 
+## 如果是手机上可以长按保存到相册，然后再支付宝——扫一扫——相册——导入二维码
+![用红包](https://raw.githubusercontent.com/xigyou/xigyou.github.io/master/alipay.jpeg)
 
-### Markdown
+## 花呗红包重要提示：
+### 如果花呗红包，记得设置花呗自动还款，设置花呗自动还款方法：打开支付宝——右下角我的——花呗——右下角设置——自动还款设置——确认是全额还款，且支付宝余额或余额宝或绑定的储蓄卡有足够的钱还花呗消费金额就行了。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xigyou/yinghui/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 如果花呗忘记还款会影响个人征信记录，以后贷款办信用卡会有问题。
